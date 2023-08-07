@@ -9,6 +9,8 @@ public class Merhaba {
 
         System.out.println("merhaba 2");
 
+        System.out.println("merhaba 3");
+
         for (int i = 0; i < 5; i++) {
             System.out.println("merhaba");
         }
